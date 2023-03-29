@@ -1,18 +1,19 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: coding and noting
+keywords: zhang jinbao
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+I'm a second year undergraduate student from [School of EECS](https://esist.ustc.edu.cn/), [Peking University](https://www.ustc.edu.cn/). My research interest includes computer vision ,aiming at 3d object detection.
 
-仰慕「优雅编码的艺术」。
 
-坚信熟能生巧，努力改变人生。
+
+[Email](mailto:zjb19990529@mail.ustc.edu.cn) 
+
 
 ## 联系
 
